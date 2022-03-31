@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "color": "#0000ff"
+    },
+    {
+        "id": 2,
+        "color": "#0000ff"
+    },
+    {
+        "id": 3,
+        "img": "uploads\/624466d0c79168.95916757.png",
+        "color": "#0000ff"
+    },
+    {
+        "id": 4,
+        "img": "uploads\/62446748c2dcf9.07006618.png",
+        "color": "#73ff00"
+    },
+    {
+        "id": 5,
+        "img": null,
+        "color": "#000000"
+    },
+    {
+        "id": 6,
+        "img": null,
+        "color": "#000000"
+    }
+]
